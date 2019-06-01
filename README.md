@@ -12,7 +12,7 @@ Sometimes we don't have time to do something important. For example create your 
 3. Clone ```https://github.com/jieggii/homepager.git```
 4. Copy all files from <b>```homepager/```</b> into <b>```username.github.io/```</b>
 5. Open <b>config.json</b> via any text editor
-6. Set parameters as you need
+6. <a href="https://github.com/jieggii/homepager#setting-your-own-homepage">Set parameters as you need</a>
 7. Commit & push
 8. Done! Locate to <b>https://```username```.github.io</b> and enjoy!
 
