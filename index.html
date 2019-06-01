@@ -21,7 +21,6 @@
                         <p class="description text-muted">{{description}}</p>
                         <p class="status text-muted font-weight-light">{{status}}</p>
                     </div>
-
                     <div class="social-media-links-wrapper text-center mt-4">
                         <a :href="account.url" class="social-url-wrapper p-2" v-for="account in social_media">
                             <i :class="account.fa_icon" class="social-media-icon p-2 rounded" :style="{color: account.color}"></i>
@@ -36,14 +35,12 @@
                         <br>
                         <span class="commit-date text-muted">{{latest_commit_date}} in <a :href="latest_commit_repo_url" class="ff-mono">{{latest_commit_repo}}</a></span>
                     </div>
-
                     <div class="col-sm my-3">
                         <h2 class="fs-35 font-weight-light">Latest follower</h2>
                         <img width="25" height="25" :src="latest_follower_avatar" class="rounded-circle border">
                         <a :href="latest_follower_url" class="ff-mono latest-link">{{latest_follower_username}}</a>
                         <p class="text-muted">#{{user_followers_count}}</p>
                     </div>
-
                     <div class="col-sm my-3">
                         <h2 class="fs-35 font-weight-light">Latest repository</h2>
                         <a :href="latest_repo_url" class="ff-mono latest-link">{{latest_repo_name}}</a>
