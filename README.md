@@ -31,7 +31,7 @@ Sometimes we don't have time to do something important. For example create your 
 }
 ```
 * ```username``` - Your github username. If you change your it on github, you also should change it in ```config.json```
-* ```description``` - Self-introducing. Tell who you are. For example "Web designer", "Web designer" or something like that
+* ```description``` - Self-introducing. Tell who you are. For example "Web designer", "Rly cool man" or something like this
 * ```status``` - Your status. For example "Learning", "Working", "Having fun" etc.
 * ```social-media``` - List consisting of links to your social networks accounts
 * * ```fa_icon``` - Icon classes from <a href="https://fontawesome.com/">Font awesome</a>. For example "<b>fab fa-github"</b> for github icon. Just search them <a href="https://fontawesome.com/icons?d=gallery">here</a>, then copy & paste classes into ```fa_icon``` value
