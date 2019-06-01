@@ -35,7 +35,7 @@ Sometimes we don't have time to do something important. For example create your 
 * ```status``` - Your status. For example "Learning", "Working", "Having fun" etc.
 * ```social-media``` - List consisting of links to your social networks accounts
 * * ```fa_icon``` - Icon classes from <a href="https://fontawesome.com/">Font awesome</a>. For example "<b>fab fa-github"</b> for github icon. Just search them <a href="https://fontawesome.com/icons?d=gallery">here</a>, then copy & paste classes into ```fa_icon``` value
-* * ```url``` - Link to your social network account. <b>Must contain ```https://```</b>
+* * ```url``` - Link to your social network account. <b>Must contain protocol (https, http, mailto, etc.)</b>
 * * ```color``` - Optional variable. Can be empty. Color of icon.
 
 ## License
