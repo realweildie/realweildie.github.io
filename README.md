@@ -23,8 +23,8 @@ Sometimes we don't have time to do something important. For example create your 
   "description": "Web developer",  
   "status": "Doing really cool stuff",  
   "social-media": [  
-	  {"fa_icon": "fab fa-github", "url": "https://github.com/username", "color": ""},  
-	  {"fa_icon": "fab fa-twitter", "url": "https://twitter.com/username", "color": "blue"},  
+	  {"fa_icon": "fab fa-github", "url": "https://github.com/username", "color": "black"},  
+	  {"fa_icon": "fab fa-twitter", "url": "https://twitter.com/username", "color": "#17a2f2"},  
 	  {"fa_icon": "far fa-envelope", "url": "mailto:email@example.com", "color": ""},  
 	  {"fa_icon": "fab fa-instagram", "url": "https://instagram.com/username", "color": ""}  
   ]
