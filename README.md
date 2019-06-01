@@ -36,7 +36,7 @@ Sometimes we don't have time to do something important. For example create your 
 * ```social-media``` - List consisting of links to your social networks accounts
 * * ```fa_icon``` - Icon classes from <a href="https://fontawesome.com/">Font awesome</a>. For example "<b>fab fa-github"</b> for github icon. Just search them <a href="https://fontawesome.com/icons?d=gallery">here</a>, then copy & paste classes into ```fa_icon``` value
 * * ```url``` - Link to your social network account. <b>Must contain protocol (https, http, mailto, etc.)</b>
-* * ```color``` - Optional variable. Can be empty. Color of icon.
+* * ```color``` - Optional variable. Color of icon.
 
 ## License
 <b>MIT</b>
