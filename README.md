@@ -1,6 +1,6 @@
 # Homepager
 Build your own homepage in minutes!
-<img src="https://imgur.com/PpRuEZy.jpg">
+<img src="https://imgur.com/evbE5bW.jpg">
 
 ## Why?!
 Sometimes we don't have time to do something important. For example create your own homepage. <b>Homepager</b> solves this problem
