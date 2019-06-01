@@ -7,7 +7,7 @@ Build your own homepage in minutes!
 Sometimes we don't have time to do something important. For example create your own homepage. <b>Homepager</b> solves this problem
 
 ## Creation:
-1. Create Github repository named <b>```username```.github.io</b> (where ```username``` is your Github username)
+1. Create GitHub repository named <b>```username```.github.io</b> (where ```username``` is your GitHub username)
 2. Clone it
 3. Clone ```https://github.com/jieggii/homepager.git```
 4. Copy all files from <b>```homepager/```</b> into <b>```username.github.io/```</b>
@@ -31,11 +31,11 @@ Sometimes we don't have time to do something important. For example create your 
   ]
 }
 ```
-* ```username``` - Your github username. If you change your it on github, you also should change it in ```config.json```
+* ```username``` - Your GitHub username. If you change your it on GitHub, you also should change it in ```config.json```
 * ```description``` - Self-introducing. Tell who you are. For example "Web designer", "Rly cool man" or something like this
 * ```status``` - Your status. For example "Learning", "Working", "Having fun" etc.
 * ```social-media``` - List consisting of links to your social networks accounts
-* * ```fa_icon``` - Icon classes from <a href="https://fontawesome.com/">Font Awesome</a>. For example "<b>fab fa-github"</b> for github icon. Just search them <a href="https://fontawesome.com/icons?d=gallery">here</a>, then copy & paste classes into ```fa_icon``` value
+* * ```fa_icon``` - Icon classes from <a href="https://fontawesome.com/">Font Awesome</a>. For example "<b>fab fa-github"</b> for GitHub icon. Just search them <a href="https://fontawesome.com/icons?d=gallery">here</a>, then copy & paste classes into ```fa_icon``` value
 * * ```url``` - Link to your social network account. <b>Must contain protocol (https, http, mailto, etc.)</b>
 * * ```color``` - Optional variable. Color of icon.
 
