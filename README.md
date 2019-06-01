@@ -1,3 +1,4 @@
+
 # Homepager
 Build your own homepage in minutes!
 <img src="https://imgur.com/evbE5bW.jpg">
@@ -34,9 +35,17 @@ Sometimes we don't have time to do something important. For example create your 
 * ```description``` - Self-introducing. Tell who you are. For example "Web designer", "Rly cool man" or something like this
 * ```status``` - Your status. For example "Learning", "Working", "Having fun" etc.
 * ```social-media``` - List consisting of links to your social networks accounts
-* * ```fa_icon``` - Icon classes from <a href="https://fontawesome.com/">Font awesome</a>. For example "<b>fab fa-github"</b> for github icon. Just search them <a href="https://fontawesome.com/icons?d=gallery">here</a>, then copy & paste classes into ```fa_icon``` value
+* * ```fa_icon``` - Icon classes from <a href="https://fontawesome.com/">Font Awesome</a>. For example "<b>fab fa-github"</b> for github icon. Just search them <a href="https://fontawesome.com/icons?d=gallery">here</a>, then copy & paste classes into ```fa_icon``` value
 * * ```url``` - Link to your social network account. <b>Must contain protocol (https, http, mailto, etc.)</b>
 * * ```color``` - Optional variable. Color of icon.
 
-## License
-<b>MIT</b>
+## License:
+* <b>MIT</b>
+
+## Used technologies:
+* CSS
+* * Bootstrap
+* * Font Awesome
+* JS
+* * JQuery
+* * Vue.js
