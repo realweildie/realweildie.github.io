@@ -31,7 +31,7 @@ Sometimes we don't have time to do something important. For example create your 
   ]
 }
 ```
-* ```username``` - Your GitHub username. If you change your it on GitHub, you also should change it in ```config.json```
+* ```username``` - Your GitHub username. If you change it on GitHub, you also should change it in ```config.json```
 * ```description``` - Self-introducing. Tell who you are. For example "Web designer", "Rly cool man" or something like this
 * ```status``` - Your status. For example "Learning", "Working", "Having fun" etc.
 * ```social-media``` - List consisting of links to your social networks accounts
