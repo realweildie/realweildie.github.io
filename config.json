@@ -3,6 +3,6 @@
   "description": "Just a programmer",
   "status": "<3",
   "social-media": [
-    {"fa_icon": "fab fa-github", "url": "https://github.com/realweildie", "color":  "black"}
+     {"fa_icon": "fab fa-github", "url": "https://github.com/realweildie", "color": "black"}
   ]
 }
